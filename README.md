@@ -3,7 +3,7 @@
 
 ## 🛠️ - Installation
 Obtener la clé d'api sur [OpenWeather](https://openweathermap.org/)
-
+Join discord server : https://discord.gg/H3Aj3x2caw
 
 
 <p align="">
@@ -26,4 +26,4 @@ Obtener la clé d'api sur [OpenWeather](https://openweathermap.org/)
 
 <div align="center">
     <img align="center" src="https://i.imgur.com/5VMX5uU.jpg" alt="image" />
-</div>"# Weather" 
+</div>
